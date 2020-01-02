@@ -1,0 +1,32 @@
+02-JAN-2020
+***********
+
+Windows Details on Google cloude
+-------------------------------
+
+IP : 35.193.120.43
+
+GitHub Details
+-------------------
+
+user name: shamid2018
+
+
+Git Commands
+-------------
+git config --global user.name "Shamid"
+
+git config --global user.email "shamid.hamid@gmail.com"
+
+git config --global cor.editor notepad
+
+git config --list
+
+
+
+echo "# FinFlow" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/shamid2018/FinFlow.git
+git push -u origin master

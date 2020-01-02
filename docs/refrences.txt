@@ -1,0 +1,8 @@
+2-JAN-2020
+----------
+Environment/infrastructure setup tutorial
+
+1. Windows instance on GC (https://www.youtube.com/watch?v=p5wl1s5gKY0)
+2. MongoDB installation (https://www.youtube.com/watch?v=sluiQOXKUmQ)
+3. JDK instatllation (https://www.youtube.com/watch?v=uadGsNA6h5Q)
+4. GIT instatllation (https://www.youtube.com/watch?v=albr1o7Z1nw)
